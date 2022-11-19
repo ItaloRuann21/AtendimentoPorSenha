@@ -1,0 +1,41 @@
+*{
+	padding: 0;
+	margin: 0;
+    
+}
+
+header {
+	height: 50px;
+	background-color: #0d6efd;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+main{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.senha{
+    padding: 30px;
+    border: 2px solid #0d6efd;
+    border-radius: 40px;
+    background-color: gray;
+    color: white;
+    font-size: 48px;
+    min-width: 300px;
+    text-align: center;
+}
+
+#senha{
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: #0d6efd;
+    text-align: center;
+}
